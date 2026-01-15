@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://iridescent-sunshine-470c81.netlify.app/sitemap.xml
